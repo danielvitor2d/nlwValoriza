@@ -23,12 +23,12 @@
 </p>
 
 ## :man_technologist: About
-``` :man_technologist: Sobre ```
+:man_technologist: ``` Sobre ```
 
 NLW Valoriza é uma API desenvolvida durante a Next Level Week Together, na trilha de NodeJS, ministrada pela [Dani Leão](https://github.com/danileao).
 
 ## :rocket: Technology
-``` :rocket: Tecnologias ```
+:rocket: ``` Tecnologias ```
 - [NodeJS](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
@@ -39,7 +39,7 @@ NLW Valoriza é uma API desenvolvida durante a Next Level Week Together, na tril
 - [Nodemailer](https://nodemailer.com/)
 
 ## :gear: Routes
-``` :gear: Rotas ```
+:gear: ``` Rotas ```
 - POST - /users (Create user)
 - POST - /tags (Create tag)
 - POST - /login (Authenticate user)
@@ -49,16 +49,16 @@ NLW Valoriza é uma API desenvolvida durante a Next Level Week Together, na tril
 - GET - /users/compliments/send (List compliments by user sender)
 - GET - /users/compliments/receive (List compliments by user receiver)
 
-## :: How to execute
-``` :: Como executar ```
+## :computer: How to execute
+:computer: ``` Como executar ```
 - Clone this repository: `git clone https://github.com/danielvitor2d/nlwValoriza`
 - Run `yarn install` and `yarn init` to install dependencies
 - Run `yarn typeorm migration:run` to prepare database
 - Run `yarn dev` to start the application
 - Finally, access http://localhost:3000 to consume the API
 
-## :: How to contribute
-``` :: Como contribuir ```
+## :keyboard: How to contribute
+:keyboard: ``` Como contribuir ```
 - Fork the repository ans follow the steps below
 ```bash
 ### Clone your fork
