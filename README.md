@@ -57,7 +57,7 @@ NLW Valoriza is an API developed in Next Level Week Together, trail NodeJS, give
 ## :computer: How to execute
 :computer: ``` Como executar ```
 - Clone this repository: `git clone https://github.com/danielvitor2d/nlwValoriza`
-- Run `yarn install` and `yarn init` to install dependencies
+- Run `cd nlwValoriza` and `yarn install` to install dependencies
 - Run `yarn typeorm migration:run` to prepare database
 - To use the email service, provide some informations in [SendEmailService.ts](https://github.com/danielvitor2d/nlwValoriza/blob/master/src/services/SendEmailService.ts)
 - Run `yarn dev` to start the application
