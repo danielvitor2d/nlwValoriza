@@ -59,7 +59,7 @@ NLW Valoriza is an API developed in Next Level Week Together, trail NodeJS, give
 
 ## :keyboard: How to contribute
 :keyboard: ``` Como contribuir ```
-- Fork the repository ans follow the steps below
+- Fork the repository and follow the steps below
 ```bash
 ### Clone your fork
 $ git clone your-fork-url
