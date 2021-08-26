@@ -1,4 +1,4 @@
-<h1 align="center"> NLW Valoriza</h1>
+<h1 align="center">NLW Valoriza (improved) </h1>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/danielvitor2d/nlwValoriza?style=flat-square">
@@ -18,6 +18,7 @@
   <a href="#man_technologist-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-routes">Routes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#up-more-miles">More Miles</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-how-to-execute">How to execute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#keyboard-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -48,6 +49,10 @@ NLW Valoriza is an API developed in Next Level Week Together, trail NodeJS, give
 - GET - /tags (List tags)
 - GET - /users/compliments/send (List compliments by user sender)
 - GET - /users/compliments/receive (List compliments by user receiver)
+
+## :up: More Miles
+:up: ``` Milhas a mais ```
+I improved the API by integrate a service of sent e-mails. Upon receiving a compliment, the user will also receive an email.
 
 ## :computer: How to execute
 :computer: ``` Como executar ```

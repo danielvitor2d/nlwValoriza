@@ -15,7 +15,7 @@ export async function send({ tag, message, name_sender, receiver_email }) {
     service: 'gmail',
     auth: {
       type: 'OAuth2',
-      user: 'ripsea.rpg321@gmail.com',
+      user: 'your-email@something',
       clientId: CLIENT_ID,
       clientSecret: CLIENT_SECRET,
       refreshToken: REFRESH_TOKEN,
@@ -24,9 +24,9 @@ export async function send({ tag, message, name_sender, receiver_email }) {
   });
 
   await transport.sendMail({
-    from: "NLW Together <ripsea.rpg321@gmail.com>",
+    from: "NLW Together <your-email@something>",
     to: [receiver_email],
-    subject: "Você recebeu um elogio!",
-    text: `${name_sender} acabou de te enviar um elogio, checa aí.\n Tag: ${tag}\n Mensagem: ${message}\n`
+    subject: "You received a compliment!",
+    text: `${name_sender} just sent you a compliment, check there.\n Tag: ${tag}\n Message: ${message}\n`
   });
 }
