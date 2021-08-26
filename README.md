@@ -52,7 +52,7 @@ NLW Valoriza is an API developed in Next Level Week Together, trail NodeJS, give
 
 ## :up: More Miles
 :up: ``` Milhas a mais ```
-I improved the API by integrate a service of sent e-mails. Upon receiving a compliment, the user will also receive an email.
+- I improved the API by integrate a service of sent e-mails. Upon receiving a compliment, the user will also receive an email.
 
 ## :computer: How to execute
 :computer: ``` Como executar ```
