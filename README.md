@@ -26,7 +26,6 @@
 :man_technologist: ``` Sobre ```
 
 NLW Valoriza is an API developed in Next Level Week Together, trail NodeJS, given by [Dani Leão](https://github.com/danileao).
-```NLW Valoriza é uma API desenvolvida durante a Next Level Week Together, na trilha de NodeJS, ministrada pela [Dani Leão](https://github.com/danileao).```
 
 ## :rocket: Technology
 :rocket: ``` Tecnologias ```
